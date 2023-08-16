@@ -12,7 +12,7 @@ return 0;
 }
  int simple_interest()
 {
-    float p,t,r,s_i;
+    float p,t,r,s,i;
     printf("\n enter the amount which you want to enter");
     scanf("%f",&p);
     printf("\n enter the rate which you want to enter");
